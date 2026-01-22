@@ -110,6 +110,40 @@ main {
     grid-area: main;
 }
 
+.image-itself {
+    width: 500px;
+    margin-top: 1rem;
+
+}
+
+.main-text {
+    line-height: 1.5;
+    margin-top: 1.5rem;
+}
+
+.readmore {
+    margin-top: 1rem;
+    border: solid 3px black;
+    width: 120px;
+    padding: 1rem;
+    background-color: purple;
+}
+
+.readmore-link {
+    color: white;
+
+}
+
+/* 
+
+
+
+ASIDE
+
+
+
+
+*/
 aside {
     color: white;
     padding: 40px;
