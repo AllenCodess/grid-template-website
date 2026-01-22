@@ -119,6 +119,7 @@ main {
 .main-text {
     line-height: 1.5;
     margin-top: 1.5rem;
+    font-size: 20px;
 }
 
 .readmore {
@@ -150,6 +151,76 @@ aside {
     background-color: purple;
     grid-area: aside;
 }
+
+.aside-header {
+    margin-bottom: 1rem;
+    font-size: 28px;
+}
+
+.aside-header-background {
+    background-color: #2e2e2e;
+    padding: 2rem;
+}
+
+.aside-form {
+    margin-bottom: 1rem;
+
+}
+
+.aside-label {
+    font-size: 25px;
+}
+
+.aside-text {
+    font-size: 20px;
+    margin-top: 1rem;
+}
+
+
+#email {
+    border-radius: 8px;
+    padding: .6rem;
+    font-size: 20px;
+}
+
+.aside-list {
+    margin-top: 2rem;
+    list-style: none;
+}
+
+.aside-links {
+    font-size: 1.4rem;
+    color: white;
+    text-decoration: none;
+    transition: color .2s ease-in;
+}
+
+.aside-links:hover {
+    color: yellow;
+}
+
+.aside-submit {
+    padding: .2rem;
+    font-size: 20px;
+    margin-top: 1rem;
+    border-radius: 8px;
+
+}
+
+.aside-category-header {
+    font-size: 28px;
+    margin-top: 2rem;
+}
+
+/* 
+
+
+
+FOOTER
+
+
+
+*/
 
 footer {
     color: white;
