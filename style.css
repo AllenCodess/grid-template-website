@@ -232,3 +232,31 @@ footer {
 .copyright-text {
     text-align: center;
 }
+
+/*
+
+
+
+Media Queries
+
+
+
+*/
+
+
+@media (max-width:900px) {
+    .grid-container {
+    grid-template-areas: 
+    'header'
+    'nav'
+    'main'
+    'aside'
+    'footer';
+
+}
+
+.container  {
+    max-width: 100%;
+    width: 100%;
+}
+}
