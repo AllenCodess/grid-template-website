@@ -228,3 +228,7 @@ footer {
     background-color: red;
     grid-area: footer;
 }
+
+.copyright-text {
+    text-align: center;
+}
